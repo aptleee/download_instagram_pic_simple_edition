@@ -3,5 +3,5 @@ first in your terminal, enter
 "chmod +x getimage.sh"
 then you can run the script
 "./getimage.sh <instgram_pic-link>"
-be sure to make a dirctor named insImage under your home dirctory
+be sure to make a dirctory named insImage under your home dirctory
 if you use bash, please change the first line to '#!/bin/bash'
