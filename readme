@@ -1,0 +1,6 @@
+Usage: 
+first in your terminal, enter
+"chmod +x getimage.sh"
+then you can run the script
+"./getimage.sh <instgram_pic-link>"
+if you use bash, please change the first line to '#!/bin/bash'
